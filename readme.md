@@ -9,12 +9,12 @@
 ### AnaSayfa
 Tek Sayfa Uygulama (Single-page application)
 
-![Anasayfa](https://github.com/emreilhangithub/AspNet_KafeProjesi/blob/master/images/Anasayfa.png)
+![Anasayfa](https://github.com/emreilhangithub/AspNet_KafeProjesi/tree/master/AspNet_KafeProjesi/Resimler/Anasayfa.png)
 
 
-![KahveHakkinda](https://github.com/emreilhangithub/AspNet_KafeProjesi/blob/master/images/KahveHakkinda.png)
+![KahveHakkinda](https://github.com/emreilhangithub/AspNet_KafeProjesi/tree/master/AspNet_KafeProjesi/Resimler/KahveHakkinda.png)
 
 
-![Footer](https://github.com/emreilhangithub/AspNet_KafeProjesi/blob/master/images/Footer.png)
+![Footer](https://github.com/emreilhangithub/AspNet_KafeProjesi/tree/master/AspNet_KafeProjesi/Resimler/Footer.png)
 
 ```.NET``` ```C#``` ```MSSQL```  ```ASP.NET``` ```Software``` ```Computer``` ```Programmer```
