@@ -75,9 +75,9 @@
             <div>   
                 <a name="Iletisim"></a>
                 <h2>İLETİŞİM</h2>
-                <p><strong>Adres:</strong>Soğanlık Yeni Mh. No:15 Kentplus C-blok Kat:5/33,, 34880 Kartal/İstanbul</p>
+                <p><strong>Adres:</strong>Cennet mh. cami sk.No:11 D/8 Küçükçekmece/İstanbul</p>
                 <p><strong>Telefon:</strong>(0216) 999 08 03</p>
-                <p><strong>Mail:</strong>info@btidanismanlik.com</p>
+                <p><strong>Mail:</strong>info@cennettest.com</p>
 
             </div>
 
