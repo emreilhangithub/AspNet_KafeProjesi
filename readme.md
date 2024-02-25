@@ -7,7 +7,7 @@
 # Proje İçeriği #
 
 ### AnaSayfa
-Tek Sayfa Uygulama (Single-page application)
+Tek Sayfa Uygulama (Single-page application) oluşturuldu.
 
 ![Anasayfa](https://github.com/emreilhangithub/AspNet_KafeProjesi/blob/master/images/Anasayfa.png)
 
